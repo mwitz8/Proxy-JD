@@ -14,3 +14,4 @@ EXPOSE 3004
 
 CMD ["node", "server"]
 
+# docker run -p 3004:3004 jdiv/proxy:latest
